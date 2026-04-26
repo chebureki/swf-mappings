@@ -2,7 +2,10 @@
 
 Open hash mappings for archived SWF/media files.
 
-Mainly intended for Club Penguin media for now.
+Intended to be used with [swf-map](https://github.com/chebureki/swf-map) but the value is in the mapping!
+
+No actual media is in this repo! Please refer to an archive of your choice!
+
 
 ## Layout
 
